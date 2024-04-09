@@ -12,9 +12,7 @@
   </a>
 </p>
 
-Since I was 16 years old, I've been a computer enthusiast and mostly self-taught programmer. Now I have a bachelor's degree in computer engineering and a master's degree in computer science. I started (in the 1998) with win32 event APIs (on Windows), and now I'm working (on Linux) as a full-stack web developer with 15+ years of experience, with more focus and passion for the open source world.
-
-I love to discover and figure out how the technologies (and things) around me are working.
+I discovered this world in the late 90s. I started as a self-taught developer (forum, newsgroups, e-zines) and quickly became a computer enthusiast (and geek) who loved the profession and the way of thinking. I still feel that way today.
 
 #### A little more about me...  
 
@@ -25,10 +23,10 @@ const elbowz = {
     freeTime: ["dev", "tech", "self-hosting", "electronics", "3d printing", "DIY", "movies"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Meteor", "Backbone", "Angular", "jQuery"],
+            js: ["Vue", "React", "Meteor", "Backbone", "Angular"],
         },
         backEnd: {
-            js: ["Node", "FastAPI", "Meteor"],
+            js: ["Node", "FastAPI", "PHP"],
         },
         devOps: ["Arch/Ubuntu", "Apache", "Nginx", "Docker", "Grafana"],
         databases: ["MongoDB", "MariaDB", "InfluxDB", "Redis", "sqlite"],
