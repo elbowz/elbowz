@@ -12,7 +12,7 @@
   </a>
 </p>
 
-I discovered this world in the late 90s. I started as a self-taught developer (forum, newsgroups, e-zines) and quickly became a computer enthusiast (and geek) who loved the profession and the way of thinking. I still feel that way today.
+I began my technology journey as a self-taught enthusiast, immersing myself in forums, communities, and e-zines. This ignited my passion for computing, and I proudly embraced my identity as a geek. Initially, I focused on C/C++ and Win32 event APIs for native application development. Over time, I transitioned to Linux and evolved into a full-stack web developer with over 10 years of experience, while continuing to work with low-level languages and embedded systems. My deep love for open-source fuels my curiosity, and I thrive on understanding the technologies and systems that surround me.
 
 #### A little more about me...  
 
@@ -20,17 +20,17 @@ I discovered this world in the late 90s. I started as a self-taught developer (f
 const elbowz = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C/C++", "PHP", "HTML", "CSS"],
-    freeTime: ["dev", "tech", "self-hosting", "electronics", "3d printing", "DIY", "movies"],
+    freeTime: ["embedded system", "self-hosting", "electronics", "3d printing", "DIY", "movies"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Meteor", "Backbone", "Angular"],
+            js: ["Vue", "React", "Meteor", "Backbone", "Angular", "Node"],
         },
         backEnd: {
             js: ["Node", "FastAPI", "PHP"],
         },
-        devOps: ["Arch/Ubuntu", "Apache", "Nginx", "Docker", "Grafana"],
+        devOps: [, "Grafana"],
         databases: ["MongoDB", "MariaDB", "InfluxDB", "Redis", "sqlite"],
-        misc: ["ML", "Docker", "Ionic", "Kafka", "MQTT", "Netflix OSS", "Joint.js", "Firebase", "ReactiveX"]
+        misc: ["ML" "LLM/RAG", "Arch/Ubuntu", "Docker", "MQTT", "Netflix OSS", "Joint.js", "Firebase", "ReactiveX"]
     },
 };
 ```
