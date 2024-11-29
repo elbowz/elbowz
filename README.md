@@ -1,7 +1,8 @@
-<h1 align="center">Hello world!</h1>
+<!--<h1 align="center">Hello world!</h1>-->
+<h2 align="center">Software Engineer - Full Stack Dev</h2>
 
 <p align="center">
-  <a href="mailto:sl1ohm87@duck.com" target="_blank">
+  <a href="mailto:bats-decoy-canon@duck.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/emanuele-palombo/" target="_blank">
@@ -12,13 +13,12 @@
   </a>
 </p>
 
+<!--
 I began my technology journey as a self-taught enthusiast, immersing myself in forums, communities, and e-zines. This ignited my passion for computing, and I proudly embraced my identity as a geek. Initially, I focused on C/C++ and Win32 event APIs for native application development. Over time, I transitioned to Linux and evolved into a full-stack web developer with over 10 years of experience, while continuing to work with low-level languages and embedded systems. My deep love for open-source fuels my curiosity, and I thrive on understanding the technologies and systems that surround me.
 
-#### A little more about me...  
 
 ```javascript
 const elbowz = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C/C++", "PHP", "HTML", "CSS"],
     freeTime: ["embedded system", "self-hosting", "electronics", "3d printing", "DIY", "movies"],
     technologies: {
@@ -34,12 +34,10 @@ const elbowz = {
     },
 };
 ```
-
-#### My GitHub Data
-
+-->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=elbowz&show_icons=true&theme=gotham" alt="Emanuele Palombo's GitHub stats" /><br/>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbowz&hide_title=true&theme=gotham&hide=jupyter%20notebook&langs_count=10" alt="Top Langs" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbowz&hide_title=true&theme=gotham&hide=jupyter%20notebook&langs_count=10" alt="Top Langs" />-->
 </p>
 
-*note:* Top languages does not indicate my skill level. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.-->
+<!--*note:* Top languages does not indicate my skill level. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.-->
